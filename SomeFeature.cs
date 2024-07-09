@@ -1,4 +1,4 @@
 public class SomeFixes()
 {
-    public int Id { get; set; }
+    public int Id { get;}
 }
